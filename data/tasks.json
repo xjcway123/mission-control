@@ -29,9 +29,22 @@
       ],
       "subtasks": [],
       "createdAt": "2026-03-09T08:07:55.157Z"
+    },
+    {
+      "id": "task_1773044057457",
+      "title": "测试任务",
+      "description": "1111",
+      "project": "",
+      "tags": [
+        ""
+      ],
+      "subtasks": [],
+      "priority": "medium",
+      "createdAt": "2026-03-09T08:14:17.457Z",
+      "status": "in_progress"
     }
   ],
-  "lastUpdated": "2026-03-09T08:13:46.502Z",
+  "lastUpdated": "2026-03-09T08:14:17.457Z",
   "activities": [
     {
       "type": "moved",
