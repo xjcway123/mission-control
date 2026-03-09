@@ -6,7 +6,7 @@
       "description": "这是一个测试任务，用于验证 Mission Control 是否正常工作。",
       "status": "in_progress",
       "priority": "medium",
-      "project": "devops",
+      "project": "",
       "tags": [
         "test"
       ],
@@ -31,7 +31,7 @@
       "createdAt": "2026-03-09T08:07:55.157Z"
     }
   ],
-  "lastUpdated": "2026-03-09T08:08:13.450Z",
+  "lastUpdated": "2026-03-09T08:08:26.740Z",
   "activities": [
     {
       "type": "moved",
