@@ -6,6 +6,8 @@
       "description": "这是一个测试任务，用于验证 Mission Control 是否正常工作。",
       "status": "backlog",
       "priority": "medium",
+      "project": "devops",
+      "tags": ["test"],
       "subtasks": [],
       "dod": "任务创建成功就算完成",
       "comments": [],
