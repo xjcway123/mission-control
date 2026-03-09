@@ -4,7 +4,7 @@
       "id": "task_001",
       "title": "测试任务：Hello World",
       "description": "这是一个测试任务，用于验证 Mission Control 是否正常工作。",
-      "status": "in_progress",
+      "status": "done",
       "priority": "medium",
       "project": "",
       "tags": [
@@ -41,7 +41,7 @@
       "subtasks": [],
       "priority": "medium",
       "createdAt": "2026-03-09T08:14:17.457Z",
-      "status": "in_progress",
+      "status": "done",
       "sortOrder": 1
     }
   ],
