@@ -4,7 +4,7 @@
       "id": "task_001",
       "title": "测试任务：Hello World",
       "description": "这是一个测试任务，用于验证 Mission Control 是否正常工作。",
-      "status": "review",
+      "status": "in_progress",
       "priority": "medium",
       "project": "",
       "tags": [
@@ -14,7 +14,7 @@
       "dod": "任务创建成功就算完成",
       "comments": [],
       "createdAt": "2026-03-09T08:01:00Z",
-      "sortOrder": 0
+      "sortOrder": 1
     },
     {
       "id": "task_1773043675157",
@@ -45,8 +45,16 @@
       "sortOrder": 0
     }
   ],
-  "lastUpdated": "2026-03-09T08:14:35.383Z",
+  "lastUpdated": "2026-03-09T08:14:41.861Z",
   "activities": [
+    {
+      "type": "moved",
+      "actor": "xjcway123",
+      "task": "测试任务：Hello World",
+      "from": "review",
+      "to": "in_progress",
+      "time": "just now"
+    },
     {
       "type": "moved",
       "actor": "xjcway123",
