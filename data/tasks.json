@@ -41,11 +41,20 @@
       "subtasks": [],
       "priority": "medium",
       "createdAt": "2026-03-09T08:14:17.457Z",
-      "status": "in_progress"
+      "status": "review",
+      "sortOrder": 1
     }
   ],
-  "lastUpdated": "2026-03-09T08:14:17.457Z",
+  "lastUpdated": "2026-03-09T08:14:25.295Z",
   "activities": [
+    {
+      "type": "moved",
+      "actor": "xjcway123",
+      "task": "测试任务",
+      "from": "in_progress",
+      "to": "review",
+      "time": "just now"
+    },
     {
       "type": "moved",
       "actor": "xjcway123",
