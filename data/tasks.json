@@ -14,7 +14,7 @@
       "dod": "任务创建成功就算完成",
       "comments": [],
       "createdAt": "2026-03-09T08:01:00Z",
-      "sortOrder": 1
+      "sortOrder": 0
     },
     {
       "id": "task_1773043675157",
@@ -41,12 +41,20 @@
       "subtasks": [],
       "priority": "medium",
       "createdAt": "2026-03-09T08:14:17.457Z",
-      "status": "review",
-      "sortOrder": 0
+      "status": "in_progress",
+      "sortOrder": 1
     }
   ],
-  "lastUpdated": "2026-03-09T08:14:56.997Z",
+  "lastUpdated": "2026-03-09T08:14:59.517Z",
   "activities": [
+    {
+      "type": "moved",
+      "actor": "xjcway123",
+      "task": "测试任务",
+      "from": "review",
+      "to": "in_progress",
+      "time": "just now"
+    },
     {
       "type": "moved",
       "actor": "xjcway123",
